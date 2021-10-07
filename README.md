@@ -56,6 +56,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+- [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) - Discover a different image of our universe every day.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/AstronomyPictureOfTheDay_EgonMarmol.jpg">
+  </details>  
 - [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
   <details>
     <summary>Preview</summary>
@@ -75,6 +80,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
   </details>
+  
+- [Code Chef](https://www.codechef.com/) - CodeChef is a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. It hosts three featured contests every month (Long Challenge, CookOff, LunchTime & Starters) and gives away prizes and goodies to the winners as encouragement.
+  <details>
+   <summary>Preview</summary>
+    <img src="PREVIEWS/CODE CHEF_NAYAN CHANDAK.jpg">
+  </details>
 
 - [Coggle](https://coggle.it/) - Create full roadmap for your project and schemas.
   <details>
@@ -93,6 +104,27 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
+  </details>
+  
+- [calligraphr](https://www.calligraphr.com/) - transform your handwriting into a real font.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/calligraphr_0xquark.jpg">
+  </details>
+- [Codier](https://codier.io/) - This webiste provides challenges to improve frontend skills and free resources to learn them.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Codier_SamarthRaj.jpg">
+  </details>
+- [C# Corner](https://www.c-sharpcorner.com/) - Community of Software and Data Developers, and also you can share the knowledge in the form of articles, blogs, videos etc.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Csharp_Corner_Jeetendra_Gund.jpg">
+  </details>
+- [CODEFORCES](https://codeforces.com/) - Codeforces is one of the best platforms for competitive coding and is usually known for its short challenges/contests where programmers from every corner of the world participate.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/CODEFORCES_AryanKashyap.png">
   </details>
 
 ## D
@@ -125,6 +157,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Emupedia_Gowtham.jpg">
   </details>
+- [Exchange Rate Calculator](https://samarthraj11.github.io/Basic-Projects/exchangeRateCalculator/) - This calculates the real-time exchange value of currencies by making API calls.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/ERC_SamarthRaj.jpg">
+  </details>
 
 ## F
 - [Free Rice](https://freerice.com/categories/english-vocabulary) - Answer triva questions to donate rice and help end world hunger!
@@ -144,8 +181,20 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/freecodecamp_biraj.png">
   </details>
+
+- [Frontend Mentor](https://www.frontendmentor.io/) - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 228,004 developers building projects, reviewing code, and helping each other get better.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/frontendmentor_nikkuv.png">
+  </details>
   
 ## G
+- [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/GeeksforGeeks_omkar342.jpg">
+  </details>
+
 - [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
   <details>
     <summary>Preview</summary>
@@ -153,6 +202,12 @@
   </details>
 
 ## H
+- [Hackerrank](https://www.hackerrank.com/) - Hackerank is a learning platform. It provides a platform to get knowledge about several skills. It also provides free certification and interview preparation kit.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Hackerrank_AnweshaBanyopadhyay.png">
+  </details>
+
 - [HowStuffWorks](https://www.howstuffworks.com/) - This website is dedicated entirely to -- you guessed it -- how things work. And by "things," they mean everything: from airbags to regenerative medicine to velocipede carousels. They've covered so much on this website, it'll be hard to run out of things to read about.
   <details>
     <summary>Preview</summary>
@@ -165,11 +220,29 @@
     <img src="PREVIEWS/humans character website.JPG">
   </details>
 
+- [Heikei](https://haikei.app/) - Heikei is a web-based app that generates SVGs and background patterns. They can be used in a design project or with CSS. It comes with a set of pre-made designs which a user can edit as per their needs.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Heikei_Ritvik.jpg">
+  </details>
+  
+- [Hacker Typer](https://hackertyper.com/) - Want to feel like you’re in The Matrix? Or at least feel like a super cool computer hacker trying to break into some evil lair? Just open up this site and pound the keyboard away
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/HackerTyper_0xquark.jpg">
+  </details>
+
 ## I
 - [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Iconscout_AnuragYadav.jpg">
+  </details>
+
+- [Instructables](https://www.instructables.com/) - A community for people who like to build things.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Instructables__EgonMarmol.jpg">
   </details>
 
 - [interneting-is-hard](https://www.internetingishard.com/) - A html/css tutorial site for beginners to quickly learn.
@@ -182,6 +255,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/InternetLiveStats_ketilmo.jpg">
+  </details>
+  
+- [Itch.io](https://itch.io/) - An open marketplace for independent digital creators with a focus on independent video games.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/itchio_RitinGeorge.jpg">
   </details>
 
 ## J
@@ -243,6 +322,12 @@
     <img src="PREVIEWS/MDN Web Docs_ArchanaDash.jpg">
   </details>
 
+- [MyFridgeFood](https://myfridgefood.com/) - On this site, you can check off the food you have in your fridge and it will generate a list of recipes you can make with them. It's handy for when you're stuck and don't know what to cook.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/myfridgefood_phoebeireland.jpg">
+  </details>
+
 ## N
 
 ## O
@@ -259,6 +344,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/projecteuler_byt3h3ad.png">
   </details> 
+
+- [Photopea](https://www.photopea.com/) - Photopea is an advanced image editor, alternative to Adobe Photoshop. It is a web-based raster and vector graphics editor used for image editing, making illustrations, web design, or converting between different image formats. It supports advanced image formats from other renowned photo editing softwares.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Photopea_AryanKashyap.png">
+  </details>
   
 ## Q
 
@@ -312,11 +403,23 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/SoundOfColleagues_Shinozaki1595.JPG">
   </details>
+  
+- [Stellarium](https://stellarium-web.org/) - Check out the stars, planets and constellations that are visible tonight.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Stellarium_EgonMarmol.jpg">
+  </details>
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/) - A comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations. It is regularly updated by TeleGeography.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/submarinecablemap_deepu14d.jpg">
+  </details>
+  
+  - [Swipwire the Tech Forum](https://swipwire.com/) - Trendy and new tech discussion forum for all tech lover. Any one can contribute with site and can get traffics and free backlinks.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/SwipwireTheTechForum_Dhanushka.jpeg">
   </details>
 
 ## T
@@ -334,6 +437,11 @@
     <img src="PREVIEWS/TinEyes_LoneRanger.jpg">
   </details>
 
+- [TinyPNG](https://tinypng.com/) - TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, JPEG and PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TinyPNG_Siddesh.JPG">
+  </details>
 ## U
 
 ## V
@@ -345,6 +453,13 @@
   </details>
 
 ## W
+
+- [Wayback Machine](https://archive.org/web/) - Explore billions of web pages saved over time.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/WayBackMachine_EgonMarmol.jpg">
+  </details>
+  
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
   <details>
     <summary>Preview</summary>
@@ -361,6 +476,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
+  </details>
+
+- [W3Schools](https://www.w3schools.com/) - One of the best websites to learn through documentation. It provides clear and understandable texts and practice problems.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/W3S_SamarthRaj.jpg">
   </details>
 
 
